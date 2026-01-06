@@ -1,6 +1,6 @@
 # DCN Project Report
 
-This repository contains a report documenting observations and analysis from a visit to NSTP as part of a Digital Communication Networks (DCN) project.
+This repository contains a report documenting observations and analysis from a visit to 5G Innovation Lab, NSTP, NUST as part of a Digital Communication Networks (DCN) project.
 
 ## Report Overview
 1. Observations made during the NSTP visit
