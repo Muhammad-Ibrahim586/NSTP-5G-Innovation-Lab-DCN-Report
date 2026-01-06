@@ -1,10 +1,10 @@
 # DCN Project Report
 
 ## Overview
-This report documents observations and analysis from a visit to NSTP as part of a Digital Communication Networks (DCN) project. It highlights key concepts, insights, and conclusions drawn by the group.
+This report documents observations and analysis from a visit to 5G innovation Lab, NSTP, NUST as part of a Data Communication and Networks (DCN) project. It highlights key concepts, insights, and conclusions drawn by the group.
 
 ## Report Overview
-1. Observations made during the NSTP visit
+1. Observations made during the visit
 2. Analysis and conclusions based on collected data
 3. Documentation of findings in the context of DCN concepts
 
